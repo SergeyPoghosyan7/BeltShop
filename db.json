@@ -1,0 +1,142 @@
+{
+  "menu": [
+    {
+      "title": "wexewxc",
+      "fileUrl": "blob:http://localhost:3002/d4ac0007-b8e4-4a40-9d13-8c6be520dbd9",
+      "gender": "famale",
+      "id": "1"
+    },
+    {
+      "id": "3a50",
+      "title": "fjekrwf",
+      "fileUrl": "",
+      "gender": "male"
+    },
+    {
+      "id": "0e7d",
+      "title": "2d3d23d",
+      "fileUrl": "blob:http://localhost:3000/f849bd84-6d40-4536-bced-afd7d2a262e2",
+      "gender": "male"
+    }
+  ],
+  "categories": [
+    {
+      "title": "ercecd",
+      "fileUrl": "",
+      "userId": "2",
+      "id": "1"
+    },
+    {
+      "title": "sdcwdcs",
+      "fileUrl": "",
+      "userId": "3",
+      "id": "2"
+    },
+    {
+      "title": "wecwec",
+      "fileUrl": "",
+      "userId": "3",
+      "id": "3"
+    },
+    {
+      "title": "wecewcw",
+      "fileUrl": "",
+      "userId": "1",
+      "id": "4"
+    },
+    {
+      "title": "wecwc",
+      "fileUrl": "",
+      "userId": "2",
+      "id": "5"
+    },
+    {
+      "title": "asvsev",
+      "fileUrl": "",
+      "userId": "5",
+      "id": "6"
+    },
+    {
+      "title": "wecwc",
+      "fileUrl": "",
+      "userId": "1",
+      "id": "7"
+    },
+    {
+      "id": "9468",
+      "title": "bnwmecwc",
+      "fileUrl": "",
+      "userId": "0e7d"
+    },
+    {
+      "id": "94ec",
+      "title": "wxwex",
+      "fileUrl": "",
+      "userId": "0e7d"
+    },
+    {
+      "id": "f79e",
+      "title": "wec",
+      "fileUrl": "",
+      "userId": "3a50"
+    }
+  ],
+  "subCategory": [
+    {
+      "title": "cwcw",
+      "fileUrl": "blob:http://localhost:3002/2159877b-34bd-475e-a42f-eecb97c1c5e6",
+      "catId": 1,
+      "price": "25",
+      "id": "1"
+    },
+    {
+      "title": "65",
+      "fileUrl": "blob:http://localhost:3002/ca684fae-0c17-4b61-b470-70fa821e4423",
+      "catId": 2,
+      "price": "68",
+      "id": "2"
+    },
+    {
+      "title": "sdvs",
+      "fileUrl": "blob:http://localhost:3002/cb6e013f-b6ed-4e00-a08d-a54af6e96099",
+      "catId": 7,
+      "price": "585",
+      "id": "3"
+    },
+    {
+      "title": "cl",
+      "fileUrl": "blob:http://localhost:3002/ff1cfa60-9aba-40a7-8edf-bf8ff83e36ff",
+      "catId": 7,
+      "price": "55",
+      "id": "4"
+    },
+    {
+      "title": "cerc",
+      "fileUrl": "",
+      "catId": 4,
+      "price": "25",
+      "id": "5"
+    },
+    {
+      "id": "e484",
+      "title": "bjhvre",
+      "fileUrl": "blob:http://localhost:3000/73180430-7a07-4275-b87f-b31ddff77dc9",
+      "catId": "94ec",
+      "price": "jhh"
+    },
+    {
+      "id": "391e",
+      "title": "wcwc",
+      "fileUrl": "",
+      "catId": "",
+      "price": ""
+    },
+    {
+      "id": "1e80",
+      "title": "n mndcw",
+      "fileUrl": "blob:http://localhost:3000/fae05097-49aa-46a3-8de9-9be974d9eccd",
+      "catId": "f79e",
+      "price": "1551"
+    }
+  ]
+}
